@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nikolay! 🛡️✨
 
-<!--
-**ndimitrov-qa/ndimitrov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My QA Engineering Tech Stack
 
-Here are some ideas to get you started:
+* 💻 **Languages & Web Basics:** `C#` `JavaScript` `HTML` `CSS`
+* 🧪 **Testing Methodologies:** `QA Fundamentals` `Manual Testing` `Unit Testing` `Front-End Test Automation` `Back-End Test Automation`
+* 🚀 **Automation & Frameworks:** `Selenium` `Playwright` `RestSharp` `NUnit`
+* 🔌 **API & Back-End Testing:** `Postman` `REST APIs` `HTTP` `JSON/XML` `Back-End Technologies Basics`
+* ☁️ **DevOps, Containers & Cloud:** `Docker` `Containers & Cloud` `CI/CD` `Git` `GitHub`
+* 📋 **Test & Project Management:** `Jira` `Bug Reporting` `Test Case Design & Execution`
+* 🛠️ **Editors & Environments:** `Visual Studio Code` `GitBash`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ My Web Development Tech Stack
+* 💻 **Languages:** `HTML/CSS` `JavaScript` `PHP` `MySQL` 
+* 🚀 **Frameworks & Databases:** `Tailwind` `Bootstrap` `Bulma` `Laravel` `React` `SQL` `Node.js`
+* ⚙️ **Local Environments:** `Laragon` `XAMPP`
+* 🌿 **Version Control** `Git` `GitBash` `GitHub` `GitLab`
+* ☁️ **Deployment:** `FileZilla` `Netlify` `20i Hosting`
+* 📋 **Project Management:** `Jira` `Asana`
+* 🛠️ **Editors & Tools:** `Visual Studio Code` `Sublime Text` `DevTools`
+
+- 📫 How to reach me: **https://www.linkedin.com/in/ndimitrov-qa**
