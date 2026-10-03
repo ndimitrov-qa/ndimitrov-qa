@@ -2,12 +2,11 @@
 
 ### 🛠️ My QA Engineering Tech Stack
 
-* 💻 **Languages & Web Basics:** `C#` `JavaScript` `HTML` `CSS`
-* 🧪 **Testing Methodologies:** `QA Fundamentals` `Manual Testing` `Unit Testing` `Front-End Test Automation` `Back-End Test Automation`
-* 🚀 **Automation & Frameworks:** `Selenium` `Playwright` `RestSharp` `NUnit`
-* 🔌 **API & Back-End Testing:** `Postman` `REST APIs` `HTTP` `JSON/XML` `Back-End Technologies Basics`
-* ☁️ **DevOps, Containers & Cloud:** `Docker` `Containers & Cloud` `CI/CD` `Git` `GitHub`
-* 📋 **Test & Project Management:** `Jira` `Bug Reporting` `Test Case Design & Execution`
+* 💻 **Languages & Web Basics:** `HTML` `CSS` `JavaScript` `Typescript` `PHP` `SQL`
+* 🧪 **Testing Methodologies:** `Manual & Automation Testing` `End-to-End Testing` `API & Performance Testing` `Component/Unit Test Automation` `CI/CD`
+* 🚀 **Automation & Frameworks:** `Playwright` `Selenium` `Postman` `Docker`
+* ☁️ **DevOps, Containers & Cloud:** `Docker` `Git` `GitHub`
+* 📋 **Test & Project Management:** `Jira` `Asana`
 * 🛠️ **Editors & Environments:** `Visual Studio Code` `GitBash`
 
 
